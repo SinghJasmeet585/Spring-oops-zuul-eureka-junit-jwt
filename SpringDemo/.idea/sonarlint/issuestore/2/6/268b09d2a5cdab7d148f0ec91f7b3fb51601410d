@@ -1,0 +1,12 @@
+
+\
+java:S1128	":Remove this unused import 'java.util.jar.JarOutputStream'.(Éã°øÿÿÿÿÿ8ÿô§Òú.
+Z	java:S106?"9Replace this use of System.out or System.err by a logger.(‘ËÏİøÿÿÿÿ8õÖáÒú.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(÷ìûÔ8ğ…ƒÒú.
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ÏÌÌ‚üÿÿÿÿ8ÿô§Òú.
+X	java:S125'"<This block of commented-out lines of code should be removed.(øºë€8ş©Ñú.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(ÍØá‚8ğ…ƒÒú.
+T	java:S1063"9Replace this use of System.out or System.err by a logger.(Ê‰œ8ğ…ƒÒú.
+W
+java:S1128";Remove this unused import 'javafx.application.Application'.(í™şj8½Ô¡Ñú.
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(¥ÒíËüÿÿÿÿ8õÖáÒú.

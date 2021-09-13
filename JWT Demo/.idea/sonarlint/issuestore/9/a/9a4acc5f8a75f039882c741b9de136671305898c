@@ -1,0 +1,7 @@
+
+P
+java:S1068"4Remove this unused "SerialVersionUID" private field.(Œ Á/8Å—½ı.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š÷Ã»
+R
+java:S2209"5Change this instance-reference to a static reference.(ÄÁ†Ÿ8µ›½ı.
+u	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Œ Á/8Å—½ı.

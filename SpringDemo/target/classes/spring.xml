@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Bean Definition for Ibm class-->
+    <bean class="org.example.Ibm" name="ibm" id="ibm" scope="singleton">
+        <property name="product">
+            <value>Laptop</value>
+        </property>
+        <property name="location">
+            <value>Chennai</value>
+        </property>
+    </bean>
+
+    <!-- Bean Definition for App class-->
+    <bean class="org.example.App" name="app" id="app">
+        <property name="message" value="This is setter injection"></property>
+        <property name="list">
+            <list>
+                <value>Java</value>
+                <value>C#</value>
+                <value>Python</value>
+                <value>.Net</value>
+            </list>
+        </property>
+    </bean>
+
+    <bean class="org.example.Test" name="test">
+        <constructor-arg index="0" value="Jasmeet"></constructor-arg>
+        <constructor-arg index="1" value="22"></constructor-arg>
+        <constructor-arg index="2">
+            <list>
+                <value>Java</value>
+                <value>C#</value>
+                <value>Python</value>
+                <value>.Net</value>
+            </list>
+        </constructor-arg>
+        <!--
+        <constructor-arg index="3">
+            <map key-type="java.lang.Integer" value-type="java.lang.String" merge="default">
+                <entry key="1" value="Java"></entry>
+                <entry key="2" value="C#"></entry>
+                <entry key="3" value="Python"></entry>
+                <entry key="4" value=".Net"></entry>
+            </map>
+        </constructor-arg>
+        -->
+    </bean>
+
+    <bean class="org.example.Sample" name="sample" id="sample" scope="singleton">
+    </bean>
+
+</beans>

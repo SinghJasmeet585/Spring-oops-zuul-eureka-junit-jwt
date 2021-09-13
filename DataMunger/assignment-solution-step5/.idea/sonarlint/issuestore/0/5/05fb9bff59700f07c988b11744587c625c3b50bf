@@ -1,0 +1,25 @@
+
+F
+java:S1481£"(Remove this unused "res" local variable.(ÈŸ¯œ8‹Øÿ¦ú.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(ıÿÛÿÿÿÿÿ8ìäş¦ú.
+‰
+java:S2178§"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(ŠºÑãıÿÿÿÿ8”ß†§ú.
+‰
+java:S2178§"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ŠºÑãıÿÿÿÿ8”ß†§ú.
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(µÎ Àúÿÿÿÿ8õË€§ú.
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¢ƒ§ú.
+„
+java:S2178 "fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(‘˜Ş¨8”ß†§ú.
+„
+java:S2178¥"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ÕŸ‚¥8”ß†§ú.
+‰
+java:S2178©"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Í¾Œ±øÿÿÿÿ8”ß†§ú.
+‰
+java:S2178©"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(Í¾Œ±øÿÿÿÿ8”ß†§ú.
+ƒ
+java:S2178"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.(Í¦²8”ß†§ú.
+„
+java:S2178¥"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ÕŸ‚¥8”ß†§ú.

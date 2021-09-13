@@ -1,0 +1,11 @@
+
+V
+java:S1068"4Remove this unused "SerialVersionUID" private field.(©óÅªşÿÿÿÿ8ÖòÈ½ı.
+h
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(—Ü…­ùÿÿÿÿ8ØĞÏ½ı.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(š÷Ã»
+s
+java:S1128"QRemove this unused import 'org.springframework.context.annotation.ComponentScan'.(æëòÒûÿÿÿÿ8ñ¡…Àı.
+T
+java:S1128"2Remove this unused import 'javax.xml.crypto.Data'.(¦¿çˆıÿÿÿÿ8Ìè½ı.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(©óÅªşÿÿÿÿ8ÖòÈ½ı.

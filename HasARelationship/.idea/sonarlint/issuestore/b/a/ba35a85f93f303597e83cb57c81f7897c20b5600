@@ -1,0 +1,21 @@
+
+n
+java:S3457""Q%n should be used in place of \n to produce the platform-specific line separator.(β¬φΪ8Πέςάψ.
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(ϋªΣZ8ΧΊξέψ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Έ‚πϊÿÿÿÿ8―ωαάψ.
+s
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(¤Ρ¦όÿÿÿÿ8έ¤ιέψ.
+n
+java:S3457!"Q%n should be used in place of \n to produce the platform-specific line separator.(§ή‹±8Όλάψ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«Ϊ¥δ8ΈΫάψ.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡΅Ι8¬Τ½έψ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ύέΥ…8ΠΥµέψ.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(§ή‹±8ύ’ηάψ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¤Ρ¦όÿÿÿÿ8έ¤ιέψ.
+T
+java:S1128"2Remove this unused import 'java.net.Inet4Address'.(κ…ΙΓϊÿÿÿÿ8—¶όϊψ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(β¬φΪ8³Όκάψ.
+s
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(—ωψÿÿÿÿ8¦ταέψ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(—ωψÿÿÿÿ8Ψϊήέψ.

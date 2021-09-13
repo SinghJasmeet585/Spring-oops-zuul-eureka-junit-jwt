@@ -1,0 +1,10 @@
+
+y	java:S116"_Rename this field "RestrictionFunctions" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¼Ù†øÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(µ¼Ù†øÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïüÒœüÿÿÿÿ
+p	java:S116"VRename this field "QueryString" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¹Ìùÿÿÿÿ
+J
+java:S1068"/Remove this unused "QueryString" private field.(Ø¹Ìùÿÿÿÿ
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êãåÜùÿÿÿÿ

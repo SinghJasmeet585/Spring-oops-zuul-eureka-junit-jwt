@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Exercise-1 -->
+    <bean class="org.example.TicketBooking" name="ticketBooking" id="ticketBooking">
+        <property name="numberOfPerson" value="3"></property>
+        <property name="fare" value="230"></property>
+    </bean>
+
+    <!-- Setter Injunction -->
+    <bean class="com.event.Event" name="event1" id="event1">
+        <property name="eventName" value="Magic show"></property>
+        <property name="eventOrganiser" value="Vadivel"></property>
+        <property name="fare" value="650"></property>
+    </bean>
+
+    <bean class="com.event.Event" name="event2" id="event2">
+        <property name="eventName" value="Puppet show"/>
+        <property name="eventOrganiser" value="Maggie"/>
+        <property name="fare" value="250"/>
+    </bean>
+
+    <bean class="com.event.Event" name="event3" id="event3">
+        <property name="eventName" value="StandUp comedy"></property>
+        <property name="eventOrganiser" value="Arun"></property>
+        <property name="fare" value="500"></property>
+    </bean>
+
+    <!-- Autowired -->
+    <bean class="com.autowired.ContactDetail" name="contactDetail" id="contactDetail" autowire="byName">
+        <property name="email" value="gsat@gmail.com"></property>
+        <property name="mobileNumber" value="22536"></property>
+    </bean>
+
+    <bean class="com.autowired.Address" name="address" id="address">
+        <property name="line1" value="anna"></property>
+        <property name="line2" value="krishna"></property>
+        <property name="city" value="chennai"></property>
+        <property name="pincode" value="110902"></property>
+    </bean>
+
+    <!-- Required Annotation -->
+    <bean class="com.annotation.Hall" name="hall" id="hall" autowire="byName">
+        <property name="length" value="10"></property>
+        <property name="width" value="12"></property>
+    </bean>
+
+    <bean class="com.annotation.Owner" name="owner" id="owner">
+        <property name="name" value="John"></property>
+        <property name="password" value="johnyy"></property>
+    </bean>
+
+
+</beans>

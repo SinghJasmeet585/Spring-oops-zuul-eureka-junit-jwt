@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.autowire.Car" name="car" id="car" autowire="byName">
+        <property name="carName" value="tata"></property>
+     <!--   <property name="engine" ref="engine123"></property> -->
+    </bean>
+
+    <bean class="com.autowire.Car" name="car1" id="car1" autowire="byType">
+        <property name="carName" value="tata"></property>
+        <!--   <property name="engine" ref="engine123"></property> -->
+    </bean>
+
+    <bean class="com.autowire.Engine" name="engine" id="engine">
+        <property name="engineType" value="Petrol"></property>
+
+    </bean>
+</beans>

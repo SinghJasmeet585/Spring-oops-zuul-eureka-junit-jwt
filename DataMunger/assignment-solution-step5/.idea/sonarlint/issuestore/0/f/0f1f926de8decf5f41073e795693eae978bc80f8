@@ -1,0 +1,55 @@
+
+Z
+java:S1197h"8Move the array designator from the variable to the type.(™Øûÿÿÿÿ8÷Ùøıù.
+]	java:S125`"<This block of commented-out lines of code should be removed.(ô¾Ï“úÿÿÿÿ8÷Ùøıù.
+„
+java:S1488'"bImmediately return this expression instead of assigning it to the temporary variable "queryFinal".(‹Éïşÿÿÿÿ8®¥õıù.
+Z
+java:S1197f"8Move the array designator from the variable to the type.(¶Ğµ·ùÿÿÿÿ8÷Ùøıù.
+V
+java:S1197§"8Move the array designator from the variable to the type.(¢®ïú8ª¾¬§ú.
+H
+java:S1168c"+Return an empty collection instead of null.(¥¹ï8÷Ùøıù.
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18ÁÊİ§ú.
+H
+java:S1168Q"+Return an empty collection instead of null.(¥¹ï8¦ü÷ıù.
+M
+java:S1066Í"/Merge this if statement with the enclosing one.(ÊÍĞò8Ê½ııù.
+[
+java:S1197 "8Move the array designator from the variable to the type.(‚µŸÀøÿÿÿÿ8ª¾¬§ú.
+V
+java:S1197¦"8Move the array designator from the variable to the type.(İÎ›è8ª¾¬§ú.
+|
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(íßúıÿÿÿÿ8É£şıù.
+d
+java:S1128"BRemove this unused import 'com.stackroute.datamunger.query.Query'.(©ÒòÛüÿÿÿÿ8ğ´éıù.
+k
+java:S5361¹"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‡° Ãøÿÿÿÿ8ª¾¬§ú.
+
+java:S1319E"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(í™™ˆ8¦ü÷ıù.
+]	java:S125F"<This block of commented-out lines of code should be removed.(‡¬†Şûÿÿÿÿ8¦ü÷ıù.
+Z
+java:S1197]"8Move the array designator from the variable to the type.(ÃĞ¢²ıÿÿÿÿ8÷Ùøıù.
+f
+java:S11923"IDefine a constant instead of duplicating this literal "order by" 4 times.(½ìõ‘8÷àüıù.
+T
+java:S1197d"8Move the array designator from the variable to the type.(¥çr8÷Ùøıù.
+]	java:S125\"<This block of commented-out lines of code should be removed.(‡¬†Şûÿÿÿÿ8÷Ùøıù.
+K
+java:S2201‚".The return value of "replaceAll" must be used.(Éš§R8ò”úıù.
+v
+java:S3012M"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ôÕ™¥8¦ü÷ıù.
+’
+java:S1319y"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Üªë­ÿÿÿÿÿ8ò”úıù.
+e
+java:S5361‚"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Éš§R8ò”úıù.
+u
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŞŸ´÷ùÿÿÿÿ8Ê½ııù.
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(ŠÉç8ÊÆ§ú.
+i
+java:S18716"LThis branch's code block is the same as the block for the branch on line 48.(Ù• 8êö„şù.
+I
+java:S1168Ö"+Return an empty collection instead of null.(¥¹ï8Ê½ııù.
+I
+java:S1168£"+Return an empty collection instead of null.(¥¹ï8ª¾¬§ú.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Collections -->
+    <bean class="com.collections.ContactDetail" name="contactDetail2" id="contactDetail2" autowire="byName">
+        <property name="email" value="gsat@gmail.com"/>
+        <property name="contactNumbers">
+            <list>
+                <value>123456789</value>
+                <value>09865432</value>
+                <value>6348716871</value>
+            </list>
+        </property>
+    </bean>
+
+    <bean class="com.collections.Address" name="address" id="address">
+        <property name="line1" value="street1"/>
+        <property name="city" value="krishnagiri"/>
+        <property name="pincode" value="1656"/>
+    </bean>
+
+</beans>

@@ -1,0 +1,18 @@
+
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¨û´îşÿÿÿÿ8ü…­ú.
+z
+java:S1989"_Handle the following exceptions that could be thrown by "doGet": ServletException, IOException.(Ôü™—8öù‰­ú.
+ú
+java:S1598"ÙThis file "FirstServlet.java" should be located in "com\servlet" directory, not in "C:\Users\JasmeetSingh\IdeaProjects\firstWeppAppProject\ServletExample\src\main\java\com.servlet"(Do not use dots in directory names).(î±œÿüÿÿÿÿ8ÔÍ‚­ú.
+j
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¢—Z8ü…­ú.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(®Ô£Ûùÿÿÿÿ8ü…­ú.
+R
+java:S1854"7Remove this useless assignment to local variable "out".(¾šçŞ8ü…­ú.
+k
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¾šçŞ8ü…­ú.
+C
+java:S1481"(Remove this unused "out" local variable.(¾šçŞ8ü…­ú.
+U
+java:S1161":Add the "@Override" annotation above this method signature(¹Â·Š8öù‰­ú.
+[	java:S125"<This block of commented-out lines of code should be removed.(€ğ­‹ıÿÿÿÿ8†ù–Èú.

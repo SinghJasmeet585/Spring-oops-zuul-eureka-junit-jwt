@@ -1,0 +1,14 @@
+
+E
+java:S1905")Remove this unnecessary cast to "Logger".(ð²ÅD8ŽŸ®“ý.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(‘¦µÿ8ÄÑ…“ý.
+y
+java:S2629&"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(²áÜž8Öï®“ý.
+S
+java:S1128"6Remove this unused import 'lombok.extern.slf4j.Slf4j'.(ûúÄ®8µ“­“ý.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( ÷Ôêøÿÿÿÿ
+]	java:S125
+"<This block of commented-out lines of code should be removed.(åÙÆÏþÿÿÿÿ8ŸÈ®“ý.
+X	java:S125$"<This block of commented-out lines of code should be removed.(ØÏè×8“íš“ý.
+^
+java:S3457&"AFormat specifiers should be used instead of string concatenation.(²áÜž8Öï®“ý.

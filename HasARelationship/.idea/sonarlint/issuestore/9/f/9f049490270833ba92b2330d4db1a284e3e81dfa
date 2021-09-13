@@ -1,0 +1,7 @@
+
+X	java:S125
+"<This block of commented-out lines of code should be removed.(ÔÂÍ°8½ËÜø.
+•
+java:S1319!"xThe type of the "addressesList" object should be an interface such as "List" rather than the implementation "ArrayList".(Œ­şâ8Ş°®İø.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(å†Û²8Ş°®İø.

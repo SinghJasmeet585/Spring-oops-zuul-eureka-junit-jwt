@@ -1,0 +1,26 @@
+
+o
+java:S1192$"RDefine a constant instead of duplicating this literal "registration-fail" 4 times.(¶¸£–8€ïÑ‰û.
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8¹ë¤ÿú.
+d
+java:S11927"GDefine a constant instead of duplicating this literal "mobile" 4 times.( ¶‰ë8õ„²‰û.
+G
+java:S5411X"*Use the primitive boolean expression here.(¸²ç”8ÓÑ¦‰û.
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8§÷àûú.
+†
+java:S1845*"iRename method "homepage" to prevent any misunderstanding/clash with method "homePage" defined on line 30.(½œ’ç8ÿ’¥þú.
+t
+java:S1128"RRemove this unused import 'org.springframework.web.bind.annotation.RequestMethod'.(Ê™Ðÿûÿÿÿÿ8§÷àûú.
+c
+java:S1192!"FDefine a constant instead of duplicating this literal "admin" 4 times.(«ÿ€¥8ôð•þú.
+H
+java:S5411…"*Use the primitive boolean expression here.(¸²ç”8˜üÍ‰û.
+]	java:S125V"<This block of commented-out lines of code should be removed.(‘­…„þÿÿÿÿ8ÓÑ¦‰û.
+]
+java:S1128"@Remove this unused import 'jdk.nashorn.internal.ir.RuntimeNode'.(çûÕž8¬ðŒþú.
+M
+java:S1128"0Remove this unused import 'com.dao.EmployeeDao'.(ÒÖ8§÷àûú.
+k
+java:S1192"IDefine a constant instead of duplicating this literal "username" 3 times.(Ö¡Œ‰ûÿÿÿÿ8º¤Í‰û.

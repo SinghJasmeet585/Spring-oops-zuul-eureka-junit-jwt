@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰Û°ûÿÿÿÿ
+b	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Â††‘8Ì«Ó¿ı.
+g
+java:S4488&"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•8®›Ó¿ı.
+b	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(›ÏÇ¢8Ì«Ó¿ı.
+g	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(­³âšùÿÿÿÿ8Ì«Ó¿ı.
+C
+java:S1452'"&Remove usage of generic wildcard type.(ºç¤ş8Ì£Ö¿ı.
+g
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÑÒª8Ë±¬¿ı.
+b	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(ºç¤ş8Ì£Ö¿ı.
+B
+java:S1452"&Remove usage of generic wildcard type.(âº£&8ÆÛÏ¿ı.

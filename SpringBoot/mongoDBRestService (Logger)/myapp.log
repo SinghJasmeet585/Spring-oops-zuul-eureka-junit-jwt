@@ -1,0 +1,32 @@
+2021-02-23 16:35:03.062  INFO 19544 --- [main] c.s.m.MongoDbRestServiceApplication      : Starting MongoDbRestServiceApplication using Java 1.8.0_281 on DESKTOP-F45A62R with PID 19544 (C:\Users\JasmeetSingh\IdeaProjects\SpringBoot\mongoDBRestService\target\classes started by JasmeetSingh in C:\Users\JasmeetSingh\IdeaProjects\SpringBoot\mongoDBRestService)
+2021-02-23 16:35:03.065  INFO 19544 --- [main] c.s.m.MongoDbRestServiceApplication      : No active profile set, falling back to default profiles: default
+2021-02-23 16:35:03.967  INFO 19544 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2021-02-23 16:35:04.045  INFO 19544 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 73 ms. Found 1 MongoDB repository interfaces.
+2021-02-23 16:35:04.587  INFO 19544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2021-02-23 16:35:04.598  INFO 19544 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-23 16:35:04.599  INFO 19544 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-02-23 16:35:04.723  INFO 19544 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-02-23 16:35:04.724  INFO 19544 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1548 ms
+2021-02-23 16:35:04.909  INFO 19544 --- [main] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2021-02-23 16:35:05.049  INFO 19544 --- [cluster-ClusterId{value='6034e1601f5bf715b8d22755', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:46}] to localhost:27017
+2021-02-23 16:35:05.050  INFO 19544 --- [cluster-rtt-ClusterId{value='6034e1601f5bf715b8d22755', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:47}] to localhost:27017
+2021-02-23 16:35:05.050  INFO 19544 --- [cluster-ClusterId{value='6034e1601f5bf715b8d22755', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=59460700}
+2021-02-23 16:35:06.108  INFO 19544 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-23 16:35:06.540  INFO 19544 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2021-02-23 16:35:06.562  INFO 19544 --- [main] c.s.m.MongoDbRestServiceApplication      : Started MongoDbRestServiceApplication in 4.341 seconds (JVM running for 5.434)
+2021-02-23 16:36:25.793  INFO 23968 --- [main] c.s.m.MongoDbRestServiceApplication      : Starting MongoDbRestServiceApplication using Java 1.8.0_281 on DESKTOP-F45A62R with PID 23968 (C:\Users\JasmeetSingh\IdeaProjects\SpringBoot\mongoDBRestService\target\classes started by JasmeetSingh in C:\Users\JasmeetSingh\IdeaProjects\SpringBoot\mongoDBRestService)
+2021-02-23 16:36:25.796  INFO 23968 --- [main] c.s.m.MongoDbRestServiceApplication      : No active profile set, falling back to default profiles: default
+2021-02-23 16:36:26.802  INFO 23968 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2021-02-23 16:36:26.903  INFO 23968 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 95 ms. Found 1 MongoDB repository interfaces.
+2021-02-23 16:36:27.528  INFO 23968 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3000 (http)
+2021-02-23 16:36:27.555  INFO 23968 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-02-23 16:36:27.556  INFO 23968 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-02-23 16:36:27.909  INFO 23968 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-02-23 16:36:27.911  INFO 23968 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2043 ms
+2021-02-23 16:36:28.435  INFO 23968 --- [main] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2021-02-23 16:36:28.613  INFO 23968 --- [cluster-ClusterId{value='6034e1b4a5cf6c6353a75772', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:49}] to localhost:27017
+2021-02-23 16:36:28.613  INFO 23968 --- [cluster-rtt-ClusterId{value='6034e1b4a5cf6c6353a75772', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:48}] to localhost:27017
+2021-02-23 16:36:28.615  INFO 23968 --- [cluster-ClusterId{value='6034e1b4a5cf6c6353a75772', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=9, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=61603900}
+2021-02-23 16:36:29.337  INFO 23968 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-23 16:36:29.744  INFO 23968 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3000 (http) with context path ''
+2021-02-23 16:36:29.755  INFO 23968 --- [main] c.s.m.MongoDbRestServiceApplication      : Started MongoDbRestServiceApplication in 4.607 seconds (JVM running for 5.653)

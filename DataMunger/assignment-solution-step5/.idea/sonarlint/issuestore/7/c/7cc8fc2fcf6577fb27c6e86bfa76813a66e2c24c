@@ -1,0 +1,13 @@
+
+„
+java:S2178"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(­”•8£ó¶ú.
+]
+java:S1126I"AReplace this if-then-else statement by a single return statement.(·åºW8„ù²ú.
+^
+java:S1126r"AReplace this if-then-else statement by a single return statement.(¬¥Åè8«¶ú.
+‰
+java:S2178’"fCorrect this "|" to "||" and extract the right operand to a variable if it should always be evaluated.(ªŠ·üÿÿÿÿ8µá·ú.
+c
+java:S1126g"AReplace this if-then-else statement by a single return statement.(¹¶˜¾ıÿÿÿÿ8«¶ú.
+]
+java:S1126>"AReplace this if-then-else statement by a single return statement.(æ—°8„ù²ú.

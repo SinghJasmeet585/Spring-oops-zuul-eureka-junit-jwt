@@ -1,0 +1,51 @@
+
+A
+java:S1168{"+Return an empty collection instead of null.(¥¹ï
+Œ
+java:S1319’"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Üªë­ÿÿÿÿÿ
+o
+java:S3012d"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ôÕ™¥
+T
+java:S1197€"8Move the array designator from the variable to the type.(™Øûÿÿÿÿ
+u
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Æ×Å³ûÿÿÿÿ
+V	java:S125]"<This block of commented-out lines of code should be removed.(‡¬†Şûÿÿÿÿ
+W	java:S125´"<This block of commented-out lines of code should be removed.(ŸÊÁ•şÿÿÿÿ
+^
+java:S5361›"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Éš§R
+b
+java:S1871M"LThis branch's code block is the same as the block for the branch on line 71.(Ù• 
+D
+java:S2201›".The return value of "replaceAll" must be used.(Éš§R
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(§¼‘¼øÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜
+S
+java:S1197~"8Move the array designator from the variable to the type.(¶Ğµ·ùÿÿÿÿ
+V	java:S125x"<This block of commented-out lines of code should be removed.(ô¾Ï“úÿÿÿÿ
+V	java:S125t"<This block of commented-out lines of code should be removed.(‡¬†Şûÿÿÿÿ
+_
+java:S1192J"IDefine a constant instead of duplicating this literal "order by" 6 times.(½ìõ‘
+M
+java:S1197|"8Move the array designator from the variable to the type.(¥çr
+I
+java:S1168‰"+Return an empty collection instead of null.(¥¹ï8´ïÜşø.
+S
+java:S1197u"8Move the array designator from the variable to the type.(ÃĞ¢²ıÿÿÿÿ
+†
+java:S1319\"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(í™™ˆ
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(íßúıÿÿÿÿ
+_
+java:S1192G"IDefine a constant instead of duplicating this literal "group by" 4 times.(°ÂŞ
+M
+java:S1066€"/Merge this if statement with the enclosing one.(ÊÍĞò8´ïÜşø.
+A
+java:S1168h"+Return an empty collection instead of null.(¥¹ï
+n
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Îç¼Æûÿÿÿÿ
+u
+java:S3776ü"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ŞŸ´÷ùÿÿÿÿ8´ïÜşø.
+}
+java:S14887"bImmediately return this expression instead of assigning it to the temporary variable "queryFinal".(‹Éïşÿÿÿÿ

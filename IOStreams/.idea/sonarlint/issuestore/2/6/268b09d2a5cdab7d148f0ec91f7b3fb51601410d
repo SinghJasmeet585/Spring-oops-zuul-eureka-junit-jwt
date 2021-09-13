@@ -1,0 +1,17 @@
+
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÿôÚø.
+]	java:S125&"<This block of commented-out lines of code should be removed.(’âÇ¸ùÿÿÿÿ8Ñ§ËÚø.
+E	java:S1089")Either remove or fill this block of code.(Ãôş•8Ñ§ËÚø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÂŒÎÿÿÿÿÿ8Ñ§ËÚø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õªõ–ùÿÿÿÿ8ĞâîÙø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ıÆÇ·üÿÿÿÿ8ˆÊíÙø.
+p
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(õª¥ûÿÿÿÿ8ËÔÌÚø.
+a
+java:S22597"DA "NullPointerException" could be thrown; "reader" is nullable here.(°ĞãÇ8Ñ§ËÚø.
+a
+java:S21473"DCombine this catch with the one at line 49, which has the same body.(ï­£Ä8Ñ§ËÚø.
+f
+java:S22598"DA "NullPointerException" could be thrown; "writer" is nullable here.(ÄËªŸÿÿÿÿÿ8ÊªÍÚø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(±ş˜ı8ø©îÙø.

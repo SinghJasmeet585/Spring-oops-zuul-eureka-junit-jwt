@@ -1,0 +1,181 @@
+
+M
+java:S2696Ñ"6Make the enclosing method "static" or remove this set.(’ˆ›
+u
+java:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¸Ÿâşÿÿÿÿ
+k
+java:S1192m"PDefine a constant instead of duplicating this literal "player_of_match" 6 times.(¶×”Øüÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Û‰±İıÿÿÿÿ
+K
+java:S3740æ"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ
+i
+java:S3776–"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÿşËè
+n
+java:S3776¬"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ø¦Áôøÿÿÿÿ
+™
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(Û‰±İıÿÿÿÿ8®”Ğ§ú.
+u
+java:S2293à"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¸Ÿâşÿÿÿÿ
+F
+java:S3740×"/Provide the parametrized type for this generic.(ü¶ı‰
+L
+java:S2696_"6Make the enclosing method "static" or remove this set.(’ˆ›
+K
+java:S3740†"/Provide the parametrized type for this generic.(ÚÉ½Îüÿÿÿÿ
+u
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¾À”øÿÿÿÿ
+™
+java:S1130È"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(²¢†Ìıÿÿÿÿ8®”Ğ§ú.
+h
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(øœù
+M
+java:S2696²"6Make the enclosing method "static" or remove this set.(’ˆ›
+K
+java:S3740¶"/Provide the parametrized type for this generic.(ñÎıÿÿÿÿ
+L
+java:S2696("6Make the enclosing method "static" or remove this set.(‘Ó¸ë
+p
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÏäÅ
+n
+java:S3776Ğ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(â¶Ãêıÿÿÿÿ
+K
+java:S3740Ñ"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ
+F
+java:S3740‚"/Provide the parametrized type for this generic.(ü¶ı‰
+™
+java:S1130ä"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(ËÑÙšşÿÿÿÿ8®”Ğ§ú.
+™
+java:S1130Ğ"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(â¶Ãêıÿÿÿÿ8®”Ğ§ú.
+K
+java:S3740Ø"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ
+L
+java:S26961"6Make the enclosing method "static" or remove this set.(Óƒû‰
+K
+java:S3740é"/Provide the parametrized type for this generic.(“Ä¤ƒùÿÿÿÿ
+K
+java:S3740â"/Provide the parametrized type for this generic.(ñÎıÿÿÿÿ
+M
+java:S2696¯"6Make the enclosing method "static" or remove this set.(’ˆ›
+M
+java:S2696‰"6Make the enclosing method "static" or remove this set.(’ˆ›
+”
+java:S1130İ"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(÷„›±8®”Ğ§ú.
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(´÷Û
+]
+java:S1192T"GDefine a constant instead of duplicating this literal "winner" 9 times.(ş¹”©
+K
+java:S3740”"/Provide the parametrized type for this generic.(ñÎıÿÿÿÿ
+M
+java:S2696‹"6Make the enclosing method "static" or remove this set.(’ˆ›
+K
+java:S3740Í"/Provide the parametrized type for this generic.(“Ä¤ƒùÿÿÿÿ
+L
+java:S2696H"6Make the enclosing method "static" or remove this set.(’ˆ›
+F
+java:S3740Ğ"/Provide the parametrized type for this generic.(ü¶ı‰
+K
+java:S3740µ"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ
+M
+java:S2696™"6Make the enclosing method "static" or remove this set.(’ˆ›
+c
+java:S1192A"MDefine a constant instead of duplicating this literal "data/ipl.csv" 8 times.(ù¨şÃ
+M
+java:S2696İ"6Make the enclosing method "static" or remove this set.(’ˆ›
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¸Ÿâşÿÿÿÿ
+M
+java:S2696"6Make the enclosing method "static" or remove this set.(’ˆ›
+L
+java:S2696Q"6Make the enclosing method "static" or remove this set.(’ˆ›
+™
+java:S1130±"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(‰úÄøÿÿÿÿ8®”Ğ§ú.
+n
+java:S3776±"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‰úÄøÿÿÿÿ
+t
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¸Ÿâşÿÿÿÿ
+n
+java:S3776ä"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ËÑÙšşÿÿÿÿ
+K
+java:S3740ƒ"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ
+o
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(Õ‹’l
+b
+java:S1192p"GDefine a constant instead of duplicating this literal "season" 4 times.(éÏ¤ñıÿÿÿÿ
+”
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(´÷Û8®”Ğ§ú.
+u
+java:S2293Õ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¸Ÿâşÿÿÿÿ
+L
+java:S2696>"6Make the enclosing method "static" or remove this set.(’ˆ›
+u
+java:S2293°"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¸Ÿâşÿÿÿÿ
+F
+java:S3740ì"/Provide the parametrized type for this generic.(ü¶ı‰
+Q
+java:S2696)"6Make the enclosing method "static" or remove this set.(‰«ñ¡ùÿÿÿÿ
+M
+java:S2696”"6Make the enclosing method "static" or remove this set.(’ˆ›
+K
+java:S3740˜"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ
+‹
+java:S1192~"uDefine a constant instead of duplicating this literal "select city,winner,player_of_match from data/ipl.csv" 4 times.(í‡É
+u
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¸Ÿâşÿÿÿÿ
+”
+java:S1130–"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(ÿşËè8®”Ğ§ú.
+K
+java:S3740±"/Provide the parametrized type for this generic.(ñÎıÿÿÿÿ
+n
+java:S3776È"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(²¢†Ìıÿÿÿÿ
+F
+java:S3740å"/Provide the parametrized type for this generic.(ü¶ı‰
+L
+java:S2696h"6Make the enclosing method "static" or remove this set.(’ˆ›
+K
+java:S3740ÿ"/Provide the parametrized type for this generic.(ñÎıÿÿÿÿ
+K
+java:S3740‰"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ
+L
+java:S26962"6Make the enclosing method "static" or remove this set.(ı¦¤Å
+K
+java:S3740›"/Provide the parametrized type for this generic.(ñÎıÿÿÿÿ
+F
+java:S3740"/Provide the parametrized type for this generic.(ü¶ı‰
+F
+java:S3740´"/Provide the parametrized type for this generic.(ü¶ı‰
+K
+java:S3740Ÿ"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ
+i
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷„›±
+K
+java:S3740Õ"/Provide the parametrized type for this generic.(¦Çíèúÿÿÿÿ
+F
+java:S3740—"/Provide the parametrized type for this generic.(ü¶ı‰
+u
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ÜŒßúÿÿÿÿ
+p
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÏäÅ
+p
+java:S2293´"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÏäÅ
+F
+java:S3740¹"/Provide the parametrized type for this generic.(ü¶ı‰
+p
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÍÏäÅ
+u
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¾À”øÿÿÿÿ
+K
+java:S3740í"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ
+a
+java:S1192¬"JDefine a constant instead of duplicating this literal "Bangalore" 3 times.(áÃÊ±
+“
+java:S1130ù"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(øœù8®”Ğ§ú.
+F
+java:S3740ˆ"/Provide the parametrized type for this generic.(ü¶ı‰
+u
+java:S2293å"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¾À”øÿÿÿÿ
+™
+java:S1130¬"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(ø¦Áôøÿÿÿÿ8®”Ğ§ú.
+K
+java:S3740º"/Provide the parametrized type for this generic.(›Éğèøÿÿÿÿ

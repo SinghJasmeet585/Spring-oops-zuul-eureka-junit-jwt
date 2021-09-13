@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="firstWeppAppProject:war">
+    <output-path>$PROJECT_DIR$/firstWeppAppProject/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>firstWeppAppProject</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="firstWeppAppProject.war">
+      <element id="artifact" artifact-name="firstWeppAppProject:war exploded" />
+    </root>
+  </artifact>
+</component>

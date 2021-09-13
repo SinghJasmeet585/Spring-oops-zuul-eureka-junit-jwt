@@ -1,0 +1,10 @@
+
+S	java:S106["9Replace this use of System.out or System.err by a logger.(†øò—ùÿÿÿÿ
+m
+java:S11924"RDefine a constant instead of duplicating this literal "java.lang.Integer" 5 times.(¢úàãÿÿÿÿÿ
+m
+java:S11924"RDefine a constant instead of duplicating this literal "java.lang.String" 11 times.(¢úàãÿÿÿÿÿ
+L
+java:S2696H"6Make the enclosing method "static" or remove this set.(¼ˆÑ£
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(½õŸ÷øÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ

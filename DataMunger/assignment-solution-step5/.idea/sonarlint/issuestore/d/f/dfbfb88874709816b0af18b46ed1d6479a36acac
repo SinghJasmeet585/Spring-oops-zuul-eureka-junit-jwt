@@ -1,0 +1,13 @@
+
+H
+java:S2160"+Override the "equals" method in this class.(¤Õ‡è8÷ìå§ú.
+’
+java:S1319"uThe type of the "dataSet" object should be an interface such as "Map" rather than the implementation "LinkedHashMap".(ÖÈşß8»©¬şù.
+
+java:S1319"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(µùø¹8»©¬şù.
+’
+java:S1319"uThe type of the "dataSet" object should be an interface such as "Map" rather than the implementation "LinkedHashMap".(îÀ¿Ñ8£Æ±şù.
+F
+java:S1948"$Make "dataSet" private or transient.(üŞìËøÿÿÿÿ8÷ìå§ú.
+8
+java:S1700"Rename field "dataSet"(üŞìËøÿÿÿÿ8 ¸ªşù.

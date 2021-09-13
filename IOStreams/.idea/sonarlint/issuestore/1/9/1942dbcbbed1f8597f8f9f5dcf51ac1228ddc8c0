@@ -1,0 +1,9 @@
+
+f
+java:S2259"DA "NullPointerException" could be thrown; "writer" is nullable here.(ÄËªŸÿÿÿÿÿ8š”½Ûø.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñ£Íÿ8âÑ¸Ûø.
+a
+java:S2147"DCombine this catch with the one at line 15, which has the same body.(ï­£Ä8âÑ¸Ûø.
+L
+java:S2093
+"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8âÑ¸Ûø.
